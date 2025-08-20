@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  DOCKER_IMAGE: ssu-flask-app
+  DOCKER_IMAGE: glassy-flask
   DOCKER_TAG: latest
   DOCKER_USERNAME: yurilee9696
   SSH_USER: ssuuser
